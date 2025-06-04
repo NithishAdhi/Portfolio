@@ -137,7 +137,8 @@ export default function App() {
                       </div>
                       <p class="description">
                         to whomever it may concern this is the description of
-                        the project and the details
+                        the project and the details of Nithishhhhh
+                        Adhiiiiiiiiiiiii
                       </p>
                       <a href="#" class="learn-more">
                         Learn More
@@ -172,7 +173,7 @@ export default function App() {
                       </div>
                       <p class="description">
                         to whomever it may concern this is the description of
-                        the project and the details
+                        the project and the details Nithishhhhh Adhiiiiiiiiiiiii
                       </p>
                       <a href="#" class="learn-more">
                         Learn More
@@ -207,7 +208,7 @@ export default function App() {
                       </div>
                       <p class="description">
                         to whomever it may concern this is the description of
-                        the project and the details
+                        the project and the details Nithishhhhh Adhiiiiiiiiiiiii
                       </p>
                       <a href="#" class="learn-more">
                         Learn More
@@ -236,7 +237,9 @@ export default function App() {
       <div className="footer-container">
         <footer className="footer">
           <h1>
-            © 2025 Nithish Adhi| Created by Nithish Adhi. Look at some of my projects on GitHub <br/><a href="#">NithishAdhi</a>
+            © 2025 Nithish Adhi| Created by Nithish Adhi. Look at some of my
+            projects on GitHub <br />
+            <a href="#">NithishAdhi</a>
           </h1>
         </footer>
       </div>
