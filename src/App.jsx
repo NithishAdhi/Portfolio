@@ -30,7 +30,7 @@ export default function App() {
             </p>
             <p className="section-about">
               I'm 20-year-old Full-Stack Web Developer. I have been programming
-              for more than 6 years. I create professional websitess.
+              for more than 6 years. I create professional websites.
             </p>
           </section>
           <div className="wrapper-info">
