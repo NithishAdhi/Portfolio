@@ -20,9 +20,15 @@ export default function App() {
             <div className="section-header">
               <h2 className="section-name">Nithish Adhi </h2>
               <div className="icon-container">
-                <img className="icon-style" src="mail.svg"></img>
-                <img className="icon-style" src="github.svg"></img>
-                <img className="icon-style" src="leetcode.svg"></img>
+                <a href="mailto:nithishadhi3124@gmail.com">
+                  <img className="icon-style" src="mail.svg"></img>
+                </a>
+                <a href="https://github.com/NithishAdhi">
+                  <img className="icon-style" src="github.svg"></img>
+                </a>
+                <a href="https://leetcode.com/u/Nithish_A/">
+                  <img className="icon-style" src="leetcode.svg"></img>
+                </a>
               </div>
             </div>
             <p className="section-location">
@@ -239,7 +245,7 @@ export default function App() {
           <h1>
             © 2025 Nithish Adhi| Created by Nithish Adhi. Look at some of my
             projects on GitHub <br />
-            <a href="#">NithishAdhi</a>
+            <a href="https://github.com/NithishAdhi">NithishAdhi</a>
           </h1>
         </footer>
       </div>
