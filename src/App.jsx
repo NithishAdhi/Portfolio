@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Home from "./Home";
 import About from "./About";
+import MyWork from "./MyWork";
 
 
 export default function App() {
@@ -10,7 +11,8 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/Home" element={<Home />}></Route>
         <Route path="/About" element={<About />}></Route>
-      </Routes>
+        <Route path="/MyWork" element={<MyWork />}></Route>
+      </Routes> 
     </Router>
   );
 }

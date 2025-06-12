@@ -13,7 +13,8 @@ export default function Home() {
           >
             <h2 className="title-util-item">About</h2>
           </Link>
-          <h2 className="title-util-item">My work</h2>
+          
+          <Link to="/MyWork" style={{textDecoration: "none", color: "inherit"}}><h2 className="title-util-item">My work</h2></Link>
           <h2 className="title-util-item">Projects</h2>
           <h2 className="title-util-item">Posts</h2>
           <h2 className="title-util-item">Contact Me</h2>
